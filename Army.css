@@ -1,0 +1,197 @@
+body {
+	margin: 0;
+	padding: 0;
+    background:#f5f2f2;
+
+	
+}
+header{
+    background-image: url("https://www.seelatest.com/images/indian-army-mns-nursing-jobs-notification.jpg");
+    background-size: 1700px 400px;
+
+    width: 1600px;
+    height:80px;
+}
+#search{
+    
+    width:9%;
+    height:15%;
+    margin-left: 1290px;
+    margin-top: 45px;
+
+}
+#bu{
+    background: rgb(202, 49, 49);
+    color:white;
+    padding:4px;
+    margin: -4px;
+}
+nav ul {
+	list-style: none;
+	background-color: rgb(255, 254, 254);
+	padding: 0;
+	margin: 0;
+    
+}
+
+nav li{
+    display:inline-block;
+    margin-right: 3px;
+    margin-top: 2px;
+    margin-bottom: 2px;;
+    line-height:18px;
+    width:6%;
+    text-align: center;
+    border-right: 2px solid black;
+}
+nav li:last-child{
+    border-right: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    width: 1518px;
+    height:90px;
+}
+section{
+    display: inline-block;
+    float: left;
+    margin-top: 2%;
+}
+.left{
+    width:15%;
+    line-height: 280%;
+    background:white;   
+    margin-left: 1%;
+    
+}
+.top{
+	
+	background-color: rgb(202, 49, 49);
+	padding: 0;
+	margin: 0;
+}
+ .top ol{
+    list-style: none;
+}
+
+.top li{
+    font-size: 0px;
+    color:white;
+    font-weight:bolder;
+    font-size: 0 px;
+    
+}
+
+.top  h1{
+    padding: 0;
+	margin: 0;
+    color:white;
+    font-weight:bolder;
+    font-size: 20px;
+    
+}
+
+
+.left ol{
+    list-style: none; 
+	
+	padding-left: 5%;
+	margin: 0;
+}
+.left li::marker{   /*list of unicode characters*/
+    content:"\23f5";
+}
+.left li{
+    border-bottom: 1px solid rgb(187, 181, 181);
+}
+.left li:last-child{
+    border-bottom: none;
+}
+.left a{
+    font-size: 16px;
+    
+}
+
+
+.right{
+    width:80%;
+    margin-left:1%;
+    box-sizing: border-box;
+    border:1px solid grey;
+    font-size: 18px;
+    margin-bottom:2%;
+    padding:1%;
+    background: white;
+}   
+.star{
+    color:red;
+}
+.odd{
+	background: #ebe9e9;
+}
+.even {
+	background:rgb(255, 254, 254);
+}
+tr td label{
+    font-weight: bold;
+}
+td{
+    width:10%;
+    margin-right:0;
+    
+}
+input{  
+    padding: 5px 0px 5px 3px;
+}
+
+select{
+    margin-left: 2%;
+    padding: 5px 0px 5px 3px;
+    
+}
+#s{
+    margin-left: 21%;
+    width:45%;
+
+}
+.l{
+    margin-left: 19%;
+    font-weight: normal;
+    width:45%;
+}
+#t{
+    margin-left: 20%;
+    width:45%;
+
+}
+#d{
+    margin-left: 18%;
+    width:45%;
+
+}
+#h{
+    margin-left: 10%;
+    width:15%;
+
+}
+#b{
+    margin-left: 10%;
+    width:45%;
+}
+
+#q{
+    margin-left: 10%;
+    width:46%;
+}
+#g{
+    margin-left: 16%;
+    width:45%;
+}
+#m{
+    margin-left: 9%;
+    width:45%;
+}
